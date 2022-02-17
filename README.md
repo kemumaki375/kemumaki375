@@ -1,6 +1,25 @@
-hmm..
 
-<!---
-kemumaki375/kemumaki375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+                       _,..__,
+                   ,.'''      `"-,_
+                 ,'                '.
+               ,'                    '
+              /                       \_
+             ;     -.                   `\
+             |       |     _         _    .
+            ;       ,'  ,-' `.     /' `.  |
+            |       '  /  o   |   t  o  \.'    .,-.
+             |         |:    .'   |:    .|    /    \
+             ;         \:.._./    ':_..:/ `. |      L
+              \  ,-'           |\_         `\-     "'-.
+  ,-"'``'-,    `f              '/`>                    `.
+,'        `L___.|              '  `     . _,/            \
+|                \_          _   _    .-.]____,,r        |
+\             ,. ___""----./` \,' ',`\'  \      \     mx.'
+  `'-'|        '`         `|   |   |  |  |       `'--"'`
+      ,         |           L_.'.__:__.-'
+       \        /
+        `'-- "'`
+        
+```
+        
